@@ -21,8 +21,6 @@
     width: 287px;
     text-align: center;
     border-radius: 4%;
-
-
   }
 
 .bold-paragraph{
@@ -38,11 +36,9 @@
   margin-top: -2px;
   font-size: 15px;
   padding-bottom: 20px;
-
 }
 
 .QRcode{
-
   border-radius: 4%;
 }
 
