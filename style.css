@@ -1,0 +1,48 @@
+  body{
+    font-family: 'Outfit', sans-serif;
+    background-color: #d5e1ef;
+    margin: 0;
+    padding: 0;
+}
+
+.main-div {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    height: 100vh;
+  }
+  .white-card {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    background-color: white;
+    height: 470px;
+    width: 287px;
+    text-align: center;
+    border-radius: 4%;
+
+
+  }
+
+.bold-paragraph{
+  font-weight: 700;
+  font-size: 23px;
+  padding: -150px;
+  color: #212e47;
+}  
+
+.low-opacity-paragraph{
+  font-weight: 400;
+  opacity: 50%;
+  margin-top: -2px;
+  font-size: 15px;
+  padding-bottom: 20px;
+
+}
+
+.QRcode{
+
+  border-radius: 4%;
+}
+
